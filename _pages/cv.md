@@ -1,8 +1,9 @@
 ---
-permalink: /
+layout: page
 title: "CV"
 permalink: /cv/
 ---
+
 
 [**Curriculum Vitae (Last update: May 2025)**](/files/Jinyang,%20Li_CV_202505.pdf)
 
