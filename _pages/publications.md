@@ -12,12 +12,12 @@ _All papers available upon request_
 
 <div style="display:flex;align-items:flex-start;margin-bottom:1em;">
   <img src="/images/Attention paper.png" style="width:110px;margin-right:14px;border:1px solid #ddd;border-radius:4px;">
-  <p>**Li, J.**, Hsu, K. L., Jiang, A. L., &amp; Sorooshian S. (in review). <em>Improving Regional Rainfall–Runoff Modeling Using an Attention‑Based Model</em>. <em>Water Resources Research</em>. <a href="https://doi.org/10.22541/essoar.174690684.43716119/v1">DOI</a></p>
+  <p>Li, J., Hsu, K. L., Jiang, A. L., &amp; Sorooshian S. (in review). <em>Improving Regional Rainfall–Runoff Modeling Using an Attention‑Based Model</em>. <em>Water Resources Research</em>. <a href="https://doi.org/10.22541/essoar.174690684.43716119/v1">DOI</a></p>
 </div>
 
 <div style="display:flex;align-items:flex-start;margin-bottom:1em;">
   <img src="/images/Suitability paper.png" style="width:110px;margin-right:14px;border:1px solid #ddd;border-radius:4px;">
-  <p>**Li, J.**, Hsu, K. L., Jiang, A. L., &amp; Yan G. (in review). <em>Predicting <i>An. stephensi</i> Environmental Suitability in the Greater Horn of Africa Using Remote Sensing and Ensemble Modeling</em>. <em>International Journal of Applied Earth Observation and Geoinformation</em>. <a href="https://doi.org/10.2139/ssrn.5218877">DOI</a></p>
+  <p><strong>Li, J.<strong>, Hsu, K. L., Jiang, A. L., &amp; Yan G. (in review). <em>Predicting <i>An. stephensi</i> Environmental Suitability in the Greater Horn of Africa Using Remote Sensing and Ensemble Modeling</em>. <em>International Journal of Applied Earth Observation and Geoinformation</em>. <a href="https://doi.org/10.2139/ssrn.5218877">DOI</a></p>
 </div>
 
 # Published
