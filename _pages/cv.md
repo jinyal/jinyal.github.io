@@ -1,8 +1,9 @@
 ---
-layout: page
+layout: default
 title: "CV"
 permalink: /cv/
 ---
+
 
 
 [**Curriculum Vitae (Last update: May 2025)**](/files/Jinyang,%20Li_CV_202505.pdf)
@@ -28,7 +29,7 @@ Advisor: Prof. Yu Zhan
 ## PROFESSIONAL EXPERIENCE
 
 **Research Intern**  
-*Oak Ridge National Laboratory, Oak Ridge, TN* | Jun 2025 – 
+*Oak Ridge National Laboratory, Oak Ridge, TN* | Jun 2025 – <br>
 Developing a scalable, fully distributed deep learning framework for rainfall–runoff modeling and flood forecasting.
 
 **AI Research Intern**  
