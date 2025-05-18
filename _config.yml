@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Irvine, CA, US"
 site_theme               : "default"
-title                    : "Your Name / Site Title"
+title                    : "Jinyang Li"
 title_separator          : "-"
 name                     : &name "Jinyang Li"
 description              : &description "PhD candidate in Computational Hydrology at UC Irvine"
@@ -32,49 +32,12 @@ author:
   email            : "jinyal4@uci.edu" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
+
   googlescholar    : "https://scholar.google.com/citations?user=hjCN9ccAAAAJ&hl=en"
-  impactstory      : # URL
   orcid            : "https://orcid.org/0009-0003-6456-354X"
-  semantic         : # URL
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-
-  # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "https://github.com/jinyal"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  linkedin         : "https://www.linkedin.com/in/jinyang-li-491715129/"
 
-  # Social media
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
