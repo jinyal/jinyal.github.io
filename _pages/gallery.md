@@ -4,8 +4,8 @@ title: "Gallery"
 ---
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
-  <img src="/images/chrs.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
   <img src="/images/AGU.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
+  <img src="/images/chrs.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
 
   <img src="/images/presentation.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
   <img src="/images/presentation2.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
