@@ -1,5 +1,5 @@
 ---
-layout: default
+permalink: /
 title: "CV"
 permalink: /cv/
 ---
