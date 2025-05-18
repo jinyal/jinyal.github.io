@@ -18,9 +18,9 @@ _All papers available upon request_
 
 - **Li, J.**, Dao, V., Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. (2024). *Improving Cascade Reservoir Inflow Forecasting and Extracting Insights by Decomposing the Physical Process Using a Hybrid Model*. *Journal of Hydrology*, 630, 130623. [DOI](https://doi.org/10.1016/j.jhydrol.2024.130623)
 
-- Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). *Improve streamflow simulations by combining machine learning pre-processing and post-processing*. *Journal of Hydrology*, 655, 132904. [DOI](DOI: 10.1016/j.jhydrol.2025.132904)
+- Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). *Improve streamflow simulations by combining machine learning pre-processing and post-processing*. *Journal of Hydrology*, 655, 132904. [DOI](https://doi.org/10.1016/j.jhydrol.2025.132904)
 
-- Chen, X., Zhang, Y., Ye, A., **Li, J.**, Hsu, K., & Sorooshian, S. (2025). *Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions*. *Environmental Modeling & Software*, 106350. [DOI](10.1016/j.envsoft.2025.106350)
+- Chen, X., Zhang, Y., Ye, A., **Li, J.**, Hsu, K., & Sorooshian, S. (2025). *Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions*. *Environmental Modeling & Software*, 106350. [DOI](https://doi.org/10.1016/j.envsoft.2025.106350)
 
 # Manuscripts (in preparation)
 
