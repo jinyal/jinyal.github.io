@@ -7,7 +7,7 @@ Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at University of C
 
 My research focuses on applying advanced AI techniques and remote sensing to improve hydrologic modeling and support decision-making. I work on a range of topics including rainfall-runoff/flooding modeling, reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
 
-### News
+# News
 
 - **[Mar 2025]** I will start as a research intern at **Oak Ridge National Laboratory (ORNL)** working with Dr. Dan Lu in June.  
 - **[Oct 2024]** I started as a research intern at **Fujitsu Research** developing AI-foundation models for global flooding and landslide prediction.  
