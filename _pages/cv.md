@@ -10,8 +10,9 @@ permalink: /cv/
 
 **Ph.D. Candidate in Computational Hydrology**  
 *University of California, Irvine, CA* | 2021 – Present  
-Advisors: [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php), [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian)
 Research areas: Deep learning, Hydrology
+Advisors: [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php), [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian)
+
 
 **M.S. in Civil and Environmental Engineering**  
 *University of California, Irvine, CA* | 2019 – 2021  
