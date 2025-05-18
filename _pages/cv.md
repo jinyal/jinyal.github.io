@@ -28,10 +28,10 @@ Advisor: Prof. Yu Zhan
 
 ## PROFESSIONAL EXPERIENCE
 
-**Oak Ridge National Laboratory, Oak Ridge, TN** 
+**Oak Ridge National Laboratory, Oak Ridge, TN**<br>
 *Research Intern* | Jun 2025 – <br>
  -Developing a scalable, fully distributed deep learning framework for rainfall–runoff modeling and flood forecasting.
 
-**Fujitsu Research of America, Santa Clara, CA**
+**Fujitsu Research of America, Santa Clara, CA**<br>
 *AI Research Intern* | Oct 2024 – Jun 2025  
  -Designed AI foundation models for global flood and landslide prediction using multi-source data.
