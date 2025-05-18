@@ -23,13 +23,17 @@ _All papers available upon request_
 # Published
 
 <div style="display:flex;align-items:flex-start;margin-bottom:1em;">
-  <img src="/images/Reservoir paper.png" style="width:80px;margin-right:10px;border:1px solid #ddd;border-radius:4px;">
+  <img src="/images/Reservoir paper.png" style="width:110px;margin-right:14px;border:1px solid #ddd;border-radius:4px;">
   <p>Li, J., Dao, V., Hsu, K., Analui, B., Knofczynski, J. D., &amp; Sorooshian, S. (2024). <em>Improving Cascade Reservoir Inflow Forecasting and Extracting Insights by Decomposing the Physical Process Using a Hybrid Model</em>. <em>Journal of Hydrology</em>, 630, 130623. <a href="https://doi.org/10.1016/j.jhydrol.2024.130623">DOI</a></p>
 </div>
--Chen, X., Zhang, Y., **Li, J.**, Hsu, K., & Sorooshian, S. (2025). *Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions*. *Environmental Modeling & Software*, 106350. [DOI](https://doi.org/10.1016/j.envsoft.2025.106350)
 
--Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). *Improve streamflow simulations by combining machine learning pre-processing and post-processing*. *Journal of Hydrology*, 655, 132904. [DOI](https://doi.org/10.1016/j.jhydrol.2025.132904)
+<div style="margin-bottom:1em;">
+  Chen, X., Zhang, Y., Li, J., Hsu, K., &amp; Sorooshian, S. (2025). <em>Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions</em>. <em>Environmental Modeling & Software</em>, 106350. DOI
+</div>
 
+<div style="margin-bottom:1em;">
+  Zhang, Y., Ye, A., Li, J., Analui, B., Nguyen, P., Hsu, K., &amp; Sorooshian, S. (2025). <em>Improve streamflow simulations by combining machine learning pre-processing and post-processing</em>. <em>Journal of Hydrology</em>, 655, 132904. DOI
+</div>
 # Manuscripts (in preparation)
 
 - **Li, J.**,  Ushijima, H., Hsu, K. L., & Sorooshian S. *Global prediction of extreme floods and landslide*. To be submitted to *Nature Water*.
