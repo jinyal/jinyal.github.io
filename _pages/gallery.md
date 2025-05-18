@@ -1,4 +1,7 @@
-
+---
+permalink: /
+title: "Gallery"
+---
 
 <div style="display:flex;flex-wrap:wrap;gap:10px;justify-content:center;">
   <img src="/images/chrs.jpg" style="width:48%;border:1px solid #ddd;border-radius:6px;">
