@@ -24,6 +24,5 @@ _All papers available upon request_
 
 # Manuscripts (in preparation)
 
-- **Li, J.**, Ushijima, H., Hsu, K. L., & Sorooshian S. Global prediction of extreme floods and landslide. To be submitted to *Nature Water*.
-- **Li, J.**, Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. Improving Reservoir Operation using Deep Reinforcement Learning. To be submitted to *Geophysical Research Letters*.
-
+- **Li, J.**,  Ushijima, H., Hsu, K. L., & Sorooshian S. *Global prediction of extreme floods and landslide*. To be submitted to *Nature Water*.
+- **Li, J.**, Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. *Improving Reservoir Operation using Deep Reinforcement Learning*. To be submitted to *Geophysical Research Letters*.
