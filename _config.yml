@@ -6,15 +6,8 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-# Basic Site Settings
-locale                   : "Irvine, CA, US"
-site_theme               : "default"
-title                    : "Jinyang Li"
-title_separator          : "-"
-name                     : &name "Jinyang Li"
-description              : &description "PhD candidate in Computational Hydrology at UC Irvine"
-url                      : "https://jinyal.github.io/" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+
+url                      : "https://jinyal.github.io/" 
 repository               : "https://jinyal.github.io/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.

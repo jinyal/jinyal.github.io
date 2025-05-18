@@ -1,15 +1,9 @@
 ---
 permalink: /
 title: "Publications"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /publications/
 ---
-
-### Google Scholar
-[View My Google Scholar Profile](https://scholar.google.com)
-
+### Google Scholar (https://scholar.google.com/citations?user=hjCN9ccAAAAJ&hl=en)
 _All papers available upon request_
 
 #### Preprint

@@ -1,10 +1,6 @@
 ---
 permalink: /
 title: "About"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at University of California, Irvine, advised by Prof. Kuo-lin Hsu and Prof. Soroosh Sorooshian. I’m expected to graduate in Fall 2025. Before my graduate studies at UCI, I earned my B.S. in Environmental Science from Sichuan University, China.
