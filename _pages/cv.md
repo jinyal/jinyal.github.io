@@ -8,7 +8,7 @@ permalink: /cv/
 
 [**Curriculum Vitae (Last update: May 2025)**](/files/Jinyang,%20Li_CV_202505.pdf)
 
-## EDUCATION
+## Education
 
 **Ph.D. Candidate in Computational Hydrology**  
 *University of California, Irvine, CA* | 2021 – Present  
@@ -26,7 +26,7 @@ Advisor: [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php)
 Thesis: *Estimation of PM₁₀ in China Using Random Forest (2013–2016)*  
 Advisor: Prof. Yu Zhan
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
 
 **Oak Ridge National Laboratory, Oak Ridge, TN**<br>
 *Research Intern* | Jun 2025 – <br>
