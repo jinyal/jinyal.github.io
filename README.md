@@ -8,7 +8,8 @@ My research focuses on applying advanced AI and remote sensing techniques to imp
 
 ## News
 
-- [Mar 2025] I will start as a research intern at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) working with [Dr. Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) in June.  
+- [Mar 2025] I will start as a research intern at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) working with [Dr. Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) in June.
+- [Feb 2025] I am selected as the [Grad Scholar Success Fellows](https://grad.uci.edu/fellowships/graduate-scholar-success-fund-i/), a $10,000 is made to support my gradaute studies.
 - [Oct 2024] I started as a research intern at [Fujitsu Research](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/) developing AI-foundation models for global flooding and landslide prediction.  
 - [Feb 2024] I was awarded the [AGU23 Outstanding Student Presentation Award (OSPA)](https://www.agu.org/honors/ospa/past-recipients) for my research on "Deep Reinforcement Learning for Sustainable Reservoir Operation".  
 <div style="display:flex;gap:10px;margin-top:8px;">
