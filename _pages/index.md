@@ -5,7 +5,7 @@ title: "About"
 
 Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at University of California, Irvine, advised by [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php) and [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian). Before my graduate studies at UCI, I earned my B.S. in Environmental Science from Sichuan University, China. 
 
-My research focuses on applying advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including rainfall-runoff/flooding modeling, reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
+My research focuses on leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including rainfall-runoff/flooding modeling, reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
 **Email:** jinyal4@uci.edu
 
 
