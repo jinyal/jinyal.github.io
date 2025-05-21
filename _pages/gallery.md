@@ -20,6 +20,4 @@ permalink: /gallery/
 
 In my spare time, I enjoy bouldering and taking road trips🥳.
 
-<br><br><br>
-
 _A GIRL IS ARYA STARK of WINTERFELL AND I’M GOING HOME._
