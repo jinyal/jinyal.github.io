@@ -1,96 +1,77 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# About
 
-![Academic Pages template example](images/homepage.png "Academic Pages template example")
+Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at University of California, Irvine, advised by [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php) and [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian). Before my graduate studies at UCI, I earned my B.S. in Environmental Science from Sichuan University, China. 
 
-# Getting Started
+My research focuses on leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including rainfall-runoff/flooding modeling, reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
+**Email:** jinyal4@uci.edu
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
 
-See more info at https://academicpages.github.io/
+## News
 
-## Running locally
-
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
-
-1. Clone the repository and made updates as detailed above.
-
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
-
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
-
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
-
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
-
-## Using Docker
-
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
-
-You can build and execute the container by running the following command in the repository:
-
-```bash
-chmod -R 777 .
-docker compose up
-```
-
-You should now be able to access the website from `localhost:4000`.
-
-### Using the DevContainer in VS Code
-
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
-
-# Maintenance
-
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
-
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
-
-## Bugfixes and enhancements
-
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
-
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
-
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
+- [Mar 2025] I will start as a research intern at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) working with [Dr. Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) in June.
+- [Feb 2025] I am selected as the [Grad Scholar Success Fellows](https://grad.uci.edu/fellowships/graduate-scholar-success-fund-i/), a $10,000 is made to support my gradaute studies.
+- [Oct 2024] I started as a research intern at [Fujitsu Research](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/) developing AI-foundation models for global flooding and landslide prediction.  
+- [Feb 2024] I was awarded the [AGU23 Outstanding Student Presentation Award (OSPA)](https://www.agu.org/honors/ospa/past-recipients) for my research on "Deep Reinforcement Learning for Sustainable Reservoir Operation".  
+<div style="display:flex;gap:10px;margin-top:8px;">
+  <img src="/images/DQN.png" style="width:49%;border:1px solid #ddd;border-radius:6px;">
+  <img src="/images/presentation.jpg" style="width:49%;border:1px solid #ddd;border-radius:6px;">
 </div>
+- [Hello World] Woo-hoo! Setting up my first personal website 🥳.<br>
+
+
+# Publications
+
+[Google Scholar](https://scholar.google.com/citations?user=hjCN9ccAAAAJ&hl=en)
+
+_All papers available upon request_
+
+
+## Preprint – 2025
+
+- **Li, J.**, Hsu, K. L., Jiang, A. L., & Sorooshian S. (in review). Improving Regional Rainfall–Runoff Modeling Using an Attention-Based Model. *Water Resources Research*. [DOI](https://doi.org/10.22541/essoar.174690684.43716119/v1)
+
+- **Li, J.**, Hsu, K. L., Jiang, A. L., & Yan G. (in review). Predicting *An. stephensi* Environmental Suitability in the Greater Horn of Africa Using Remote Sensing and Ensemble Modeling. *International Journal of Applied Earth Observation and Geoinformation*. [DOI](https://doi.org/10.2139/ssrn.5218877)
+
+## Published
+
+- **Li, J.**, Dao, V., Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. (2024). Improving Cascade Reservoir Inflow Forecasting and Extracting Insights by Decomposing the Physical Process Using a Hybrid Model. *Journal of Hydrology*, 630, 130623. [DOI](https://doi.org/10.1016/j.jhydrol.2024.130623)
+
+- Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). Improve streamflow simulations by combining machine learning pre-processing and post-processing. *Journal of Hydrology*, 655, 132904. [DOI](https://doi.org/10.1016/j.jhydrol.2025.132904)
+
+- Chen, X., Zhang, Y., Ye, A., **Li, J.**, Hsu, K., & Sorooshian, S. (2025). Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions. *Environmental Modeling & Software*, 106350. [DOI](https://doi.org/10.1016/j.envsoft.2025.106350)
+
+## Manuscripts (in preparation)
+
+- **Li, J.**,  Ushijima, H., Hsu, K. L., & Sorooshian S. *Global prediction of extreme floods and landslide*. To be submitted to *Nature Water*.
+- **Li, J.**, Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. *Improving Reservoir Operation using Deep Reinforcement Learning*. To be submitted to *Geophysical Research Letters*.
+
+#CV
+[**Curriculum Vitae (Last update: May 2025)**](/files/Jinyang,%20Li_CV_202505.pdf)
+
+## Education
+
+**Ph.D. Candidate in Computational Hydrology**  
+*University of California, Irvine, CA* | 2021 – Present  
+Research areas: Deep learning, Hydrology<br>
+Advisors: [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php), [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian)
+
+
+**M.S. in Civil and Environmental Engineering**  
+*University of California, Irvine, CA* | 2019 – 2021  
+Thesis: *Exploration of Deep Learning Models for Streamflow Simulation*  
+Advisor: [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php)
+
+**B.S. in Environmental Science**  
+*Sichuan University, Chengdu, China* | 2015 – 2019  
+Thesis: *Estimation of PM₁₀ in China Using Random Forest (2013–2016)*  
+Advisor: Prof. Yu Zhan
+
+## Professional Experience
+
+**Oak Ridge National Laboratory, Oak Ridge, TN**<br>
+*Research Intern* | Jun 2025 – <br>
+ -Developing a scalable, fully distributed deep learning framework for rainfall–runoff modeling and flood forecasting.
+
+**Fujitsu Research of America, Santa Clara, CA**<br>
+*AI Research Intern* | Oct 2024 – Jun 2025  
+ -Designed AI foundation models for global flood and landslide prediction using multi-source data.
