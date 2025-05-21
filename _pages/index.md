@@ -21,7 +21,7 @@ My research focuses on leveraging advanced AI and remote sensing techniques to i
 </div>
 - [Hello World] Woo-hoo! Setting up my first personal website 🥳.
 
-<br><br><br>
+<br><br>
 
 ### Visitor traffic map
 <div style="text-align:center; margin-top: 2rem;">
