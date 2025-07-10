@@ -9,7 +9,7 @@ My research focuses on leveraging advanced AI and remote sensing techniques to i
 
 <!-- I'll be graduating in Dec-2025, and I'm actively seeking postdoc and research scientist positions starting in Jan-2026, at the intersection of AI, hydrology, and remote sensing. -->
 
-**Email:** jinyal4@uci.edu
+<!--**Email:** jinyal4@uci.edu-->
 
 
 ## News
