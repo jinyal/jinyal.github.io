@@ -15,7 +15,7 @@ _All papers available upon request_
 
 
 ## Published
-- **Li, J.**, Hsu, K. L., Jiang, A. L., & Yan G. (Accepted). Predicting *An. stephensi* Environmental Suitability in the Greater Horn of Africa Using Remote Sensing and Ensemble Modeling. *International Journal of Applied Earth Observation and Geoinformation*. [DOI](https://doi.org/10.2139/ssrn.5218877)
+- **Li, J.**, Hsu, K. L., Jiang, A. L., & Yan G. (Accepted). Predicting *An. stephensi* Environmental Suitability in the Greater Horn of Africa Using Remote Sensing and Ensemble Modeling. ***International Journal of Applied Earth Observation and Geoinformation***. [DOI](https://doi.org/10.2139/ssrn.5218877)
 - **Li, J.**, Dao, V., Hsu, K., Analui, B., Knofczynski, J. D., & Sorooshian, S. (2024). Improving Cascade Reservoir Inflow Forecasting and Extracting Insights by Decomposing the Physical Process Using a Hybrid Model. ***Journal of Hydrology***, 630, 130623. [DOI](https://doi.org/10.1016/j.jhydrol.2024.130623)
 
 - Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). Improve streamflow simulations by combining machine learning pre-processing and post-processing. ***Journal of Hydrology***, 655, 132904. [DOI](https://doi.org/10.1016/j.jhydrol.2025.132904)
