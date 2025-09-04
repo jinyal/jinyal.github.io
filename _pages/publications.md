@@ -9,7 +9,7 @@ _All papers available upon request_
 
 
 ## Preprint – 2025
-
+- **Li, J.**,  Ushijima, H., Hsu, K. L. (in review) StreamFormer: Scalable and Accurate Global River Streamflow Forecasting with Transformers. *Proceedings of the AAAI Conference on Artificial Intelligence*.
 - **Li, J.**, Hsu, K. L., Jiang, A. L., & Sorooshian S. (in review). Improving Regional Rainfall–Runoff Modeling Using an Attention-Based Model. *Water Resources Research*. [DOI](https://doi.org/10.22541/essoar.174690684.43716119/v1)
 
 
