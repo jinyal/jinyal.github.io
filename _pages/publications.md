@@ -21,7 +21,7 @@ _All papers available upon request_
 - Zhang, Y., Ye, A., **Li, J.**, Analui, B., Nguyen, P., Hsu, K., & Sorooshian, S. (2025). Improve streamflow simulations by combining machine learning pre-processing and post-processing. ***Journal of Hydrology***, 655, 132904. [DOI](https://doi.org/10.1016/j.jhydrol.2025.132904)
 
 - Chen, X., Zhang, Y., Ye, A., **Li, J.**, Hsu, K., & Sorooshian, S. (2025). Fine-tuning long short-term memory models for seamless transition from historical to near-real-time streamflow predictions. ***Environmental Modeling & Software***, 106350. [DOI](https://doi.org/10.1016/j.envsoft.2025.106350)
-- Jiao, Y., Hsu, K., **Li, J.**, & Duan, X. (2025). A multi-task deep learning model for bias correction and merging of precipitation data in the Lancang-Mekong River Basin. ***Journal of Hydrology***, 134026. [DOI: 10.1016/j.jhydrol.2025.134026]
+- Jiao, Y., Hsu, K., **Li, J.**, & Duan, X. (2025). A multi-task deep learning model for bias correction and merging of precipitation data in the Lancang-Mekong River Basin. ***Journal of Hydrology***, 134026. [DOI](https://doi.org/10.1016/j.jhydrol.2025.134026)
 
 ## Manuscripts (in preparation)
 
