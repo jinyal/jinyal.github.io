@@ -5,7 +5,7 @@ Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at University of C
 My research focuses on leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including rainfall-runoff/flooding modeling, reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
 **Email:** jinyal4@uci.edu
 
-
+Last update: May-2025
 ## News
 
 - [Mar 2025] I will start as a research intern at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/) working with [Dr. Dan Lu](https://www.ornl.gov/staff-profile/dan-lu) in June.
