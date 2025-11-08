@@ -7,7 +7,7 @@ Hi! I’m **Jinyang (李金洋)**, a 4th-year Ph.D. candidate at **University of
 
 My research focuses on leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including global rainfall-runoff/flooding modeling, cascade reservoir simulation and operation, and invasive species habitats prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
 
-I'll be graduating in Dec-2025, and I'm actively seeking postdoc and research scientist positions starting in Feb-2026, at the intersection of AI, hydrology, and remote sensing. 
+I'll be graduating in Jan-2025, and I'm actively seeking postdoc and research scientist positions starting in Mar-2026, at the intersection of AI, hydrology, and remote sensing. 
 
 <!--**Email:** jinyal4@uci.edu-->
 
