@@ -16,5 +16,8 @@ main:
     url: "/cv/"
   - title: "Gallery"
     url: "/gallery/"
+  - title: "StreamFormer"
+    url: "https://jinyal.github.io/StreamFormer/"
+
 
 
