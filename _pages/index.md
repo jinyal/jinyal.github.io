@@ -7,7 +7,7 @@ Hi! I’m **Jinyang (李金洋)**, a 5th-year Ph.D. candidate in Hydrology and W
 
 <!--in Environmental Science -->
 
-My research focuses on **leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making**. I work on a range of topics, including global rainfall–runoff and flood modeling, cascade reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling from continental to global scales.
+My research focuses on **leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and inform decision-making**. I work on a range of topics, including global rainfall–runoff and landslide modeling, cascade reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling from continental to global scales.
 
 **I will graduate in January 2026 and am actively seeking postdoctoral or research scientist positions starting in March 2026 or later, at the intersection of AI, hydrology, and remote sensing.**. 
 
