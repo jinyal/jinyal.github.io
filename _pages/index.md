@@ -3,12 +3,15 @@ permalink: /
 title: "About"
 ---
 
-Hi! I’m **Jinyang (李金洋)**, a 5th-year Ph.D. candidate in Hydrology and Water Resources Engineering at **University of California, Irvine**, advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Before my graduate studies at UCI, I earned my B.S. from Sichuan University, China. <!--in Environmental Science -->
+Hi! I’m **Jinyang (李金洋)**, a 5th-year Ph.D. candidate in Hydrology and Water Resources Engineering at **University of California, Irvine**, advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). I was also intern at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd).
+
+<!--in Environmental Science -->
 
 My research focuses on leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and support decision-making. I work on a range of topics including global rainfall-runoff/flooding modeling, cascade reservoir simulation and operation, and invasive species habitats prediction. I am particularly interested in large-scale hydrologic modeling at continental to global scales.
 
 **I'll be graduating in Jan-2026, and I'm actively seeking postdoc and research scientist positions starting in Mar-2026 or later, at the intersection of AI, hydrology, and remote sensing**. 
 
+<!--News: I was awarded the [AGU23 Outstanding Student Presentation Award (OSPA)](https://www.agu.org/honors/ospa/past-recipients)-->
 <!--**Email:** jinyal4@uci.edu-->
 
 
