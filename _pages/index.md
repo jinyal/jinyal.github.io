@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-Hi! I’m **Jinyang (李金洋)**, a 5th-year Ph.D. candidate in Computational Hydrology at the University of California, Irvine, advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). I have also interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
+Hi! I’m **Jinyang**, a 5th-year Ph.D. candidate in Computational Hydrology at the University of California, Irvine, advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). I have also interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
 
 <!--in Environmental Science -->
 
