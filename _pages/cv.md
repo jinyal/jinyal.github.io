@@ -6,7 +6,7 @@ permalink: /cv/
 
 
 
-[**Curriculum Vitae (Last update: Nov 2025)**](/files/Jinyang,%20Li_CV_1107.pdf)
+[**Curriculum Vitae (Last update: Nov 2025)**](/files/Jinyang,%20Li_CV_110.pdf)
 
 ## Education
 
