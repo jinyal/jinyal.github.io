@@ -9,7 +9,7 @@ Hi! I’m **Jinyang**, a 5th-year Ph.D. candidate in Computational Hydrology at 
 
 My research focuses on **leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and inform decision-making**. I work on a range of topics, including global rainfall–runoff and landslide modeling, cascade reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling.
 
-**I will graduate in March 2026 and join UC Berkeley as a postdoctoral researcher in April 2026.** <!--at the intersection of AI, hydrology, and remote sensing-->
+I will graduate in March 2026 and join UC Berkeley as a postdoctoral researcher in April 2026. <!--at the intersection of AI, hydrology, and remote sensing-->
 
 <!--News: I was awarded the [AGU23 Outstanding Student Presentation Award (OSPA)](https://www.agu.org/honors/ospa/past-recipients)-->
 <!--**Email:** jinyal4@uci.edu-->
