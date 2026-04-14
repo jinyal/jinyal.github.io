@@ -3,13 +3,13 @@ permalink: /
 title: "About"
 ---
 
-Hi! I'm Jinyang, a postdoctoral researcher at UC Berkeley, working with Prof. Ted Grantham. I recently completed my Ph.D. in Computational Hydrology at UC Irvine advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Previously, I interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
+Hi! I'm Jinyang, a postdoctoral researcher at UC Berkeley, working with [Prof. Theodore (Ted) Grantham](https://ourenvironment.berkeley.edu/people/ted-grantham). I recently completed my Ph.D. in Computational Hydrology at UC Irvine advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Previously, I interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
 
 <!--in Environmental Science -->
 
 My research focuses on **leveraging advanced AI and remote sensing techniques to improve hydrologic modeling and inform decision-making**. I work on a range of topics, including global rainfall–runoff and landslide modeling, cascade reservoir simulation and operation, and invasive species habitat prediction. I am particularly interested in large-scale hydrologic modeling.
 
-I will graduate in March 2026 and join UC Berkeley as a postdoctoral researcher in April 2026. <!--at the intersection of AI, hydrology, and remote sensing-->
+<!--I will graduate in March 2026 and join UC Berkeley as a postdoctoral researcher in April 2026at the intersection of AI, hydrology, and remote sensing-->
 
 <!--News: I was awarded the [AGU23 Outstanding Student Presentation Award (OSPA)](https://www.agu.org/honors/ospa/past-recipients)-->
 <!--**Email:** jinyal4@uci.edu-->
