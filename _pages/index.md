@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-Hi! I’m **Jinyang**, a 5th-year Ph.D. candidate in Computational Hydrology at the University of California, Irvine, advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). I have also interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
+Hi! I'm Jinyang, a postdoctoral researcher at UC Berkeley, working with Prof. Ted Grantham. I recently completed my Ph.D. in Computational Hydrology at UC Irvine advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Previously, I interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
 
 <!--in Environmental Science -->
 
@@ -16,6 +16,7 @@ I will graduate in March 2026 and join UC Berkeley as a postdoctoral researcher 
 
 
 ## News
+- [Apr 2026] I started as a postdoc at [UC Berkeley](https://nature.berkeley.edu/).
 - [Jan 2026] I started as a AI research intern at [Fujitsu Research](https://www.fujitsu.com/us/about/businesspolicy/tech/rd/).  
 - [Jun 2025] I started as a research intern at [Oak Ridge National Laboratory (ORNL)](https://www.ornl.gov/). <!--working with [Dr. Dan Lu](https://www.ornl.gov/staff-profile/dan-lu)--> 
 - [Feb 2025] I am selected as the [Grad Scholar Success Fellows](https://grad.uci.edu/fellowships/graduate-scholar-success-fund-i/), a $10,000 is made to support my gradaute studies.
