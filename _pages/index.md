@@ -3,7 +3,7 @@ permalink: /
 title: "About"
 ---
 
-Hi! I'm Jinyang, a postdoctoral researcher at UC Berkeley, working with [Prof. Theodore (Ted) Grantham](https://ourenvironment.berkeley.edu/people/ted-grantham). I recently completed my Ph.D. in Computational Hydrology at UC Irvine advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Previously, I interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
+Hi! I'm Jinyang, a postdoctoral fellow at UC Berkeley, working with [Prof. Theodore (Ted) Grantham](https://ourenvironment.berkeley.edu/people/ted-grantham). I recently completed my Ph.D. in Computational Hydrology at UC Irvine advised by [Prof. Soroosh Sorooshian](https://engineering.uci.edu/users/soroosh-sorooshian) and [Prof. Kuo-lin Hsu](https://chrs.web.uci.edu/chrs_directory.php). Previously, I interned at [Fujitsu Research](https://global.fujitsu/en-us/local/technology/research) and [Oak Ridge National Laboratory](https://www.ornl.gov/directorate/ccsd), working on contiential to global AI-based hydrologic and landslide modeling.
 
 <!--in Environmental Science -->
 
